@@ -1,0 +1,39 @@
+Confira quais são os cargos de tecnologia mais procurados pelas empresas em 2022 
+Com a migração para o home office e o aumento da operação digital de companhias do varejo, logística, mercado financeiro e outros setores, a segurança dos sistemas de TI e a proteção das informações das empresas subiram para o topo de prioridades estratégicas do CIOs para 2022.
+
+Isso significa que, além de profissionais capacitados para proporcionar a melhor experiência do usuário nas plataformas online, aqueles que atuam com infraestrutura e segurança de dados também terão muitas oportunidades de emprego.
+
+Confira quais são esses cargos de tecnologia tão procurados pelas empresas neste ano.
+
+ 1 –  Desenvolvedor Front-End (sênior) 
+Como dissemos, a experiência do usuário estará entre as prioridades das empresas, o que torna o desenvolvedor front-end com mais tempo de carreira um profissional essencial dentro dos times de tecnologia.
+
+2 –    Desenvolver Back-End (pleno e sênior) 
+Profissionais com experiência em back-end, ou seja, aqueles que já têm bastante conhecimento em servidores e são responsáveis pela manutenção e armazenamento de dados, além da autenticação e configuração de rede, terão bastante oportunidades em 2022.
+
+
+3 – Desenvolvedor Full- Stack (pleno e sênior) 
+O full-stack é o desenvolvedor que sabe tudo o que envolve a construção de sites e plataformas, tanto da parte visual (trabalho do front-end) quanto a do funcionamento do servidor (back-end). Ou seja, ele é responsável por fazer com que elas funcionem perfeitamente bem juntas.
+
+
+4 – Arquiteto de soluções 
+Outro profissional da tecnologia muito requisitado será o arquiteto de soluções. É ele quem avalia as necessidades de uma empresa e cria integrações entre informações e sistemas para atendê-las.
+
+
+5 – Tech Lead 
+Bem, já vimos que os desenvolvedores serão muito requisitados pelas empresas em 2022, certo? Então, faz sentido que os tech leaders (que lideram os times de desenvolvedores) também vejam as oportunidades de emprego aumentarem bastante. 
+
+6 – Profissional de infraestrutura (analistas e coordenadores) 
+A área da infraestrutura é considerada o alicerce da tecnologia dentro das empresas. Por isso, era de se esperar que com o aquecimento da área em 2022, a demanda por analistas e coordenadores desse segmento também fosse alta.
+
+7 – Profissional de segurança da informação (especialistas a gerentes) 
+A segurança da informação é o segmento da tecnologia que estará no topo das prioridades de empresas de todos os ramos em 2022. O motivo de ser uma posição tão valorizada é que os profissionais que atuam na segurança da informação estarão no comando do desenvolvimento e da implementação de medidas de segurança que protegem os dados e informações sensíveis de ataques.
+
+8 – DevOps 
+A área de DevOps – ou desenvolvimento de operações – é a que integra as equipes de desenvolvedores de softwares com o time de infraestrutura da empresa. Como quem atua nesse segmento precisa otimizar processos e fluxos de trabalho para oferecer as melhores experiências aos usuários, esse é considerado um dos cargos com maior demanda de profissionais da tecnologia. 
+
+9 –  Product Owner
+O Product Owner, ou dono do produto, é um cargo muito procurado pelas empresas porque ele é o membro da equipe agile responsável por priorizar o backlog do time. Com isso, ele é quem vai agilizar a produção de sites, aplicativos, softwares e outros produtos.
+
+10 – Profissional de dados
+Com o aumento de dados circulando nas empresas, cresce também a necessidade de profissionais que saibam analisar, interpretar e proteger essas informações. Por isso, quem trabalha com business intelligence, big data, análise de dados e engenharia de dados, com certeza poderá encontrar boas oportunidades de emprego em 2022. 

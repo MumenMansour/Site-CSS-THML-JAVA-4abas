@@ -1,0 +1,41 @@
+
+
+PROJETO INDIVIDUAL
+
+
+
+Trabalho 2 - Escolha um dos temas para desenvolver uma página que tenha uma possível solução para um dos problemas abaixo...
+
+1-Educação - Problema: Tendo em vista o grande número de desempregados, e percebendo que no ramo da tecnologia, existem mais vagas que profissionais capacitados. Como podemos democratizar a educação tecnológica no nosso país 
+
+2-Saúde - Problema: Com a democratização da informação, cada dia mais nos deparamos com as chamadas fake News, então, como podemos difundir a informação verdadeira no âmbito da saúde, e como combater as fake News nessa área. 
+
+3-Natureza - Problema: Com o aquecimento global, colocamos em risco nosso futuro no nosso planeta, como podemos combater com o uso da tecnologia esse mal que tanto afeta e afetará a humani…
+
+4-Tecnológia - Problema: Com a chegada de milhares de profissionais na área de tecnologia, como podemos pensar em meios para bem os recebê-los, quais os mecanismos podemos usar para que tenham mais oportunidades para os "Dev. Juniors"
+
+
+OS COLEGUINHAS PODEM E DEVEM SE AJUDAR PARA O DESENVOLVIMENTO DA PÁGINA
+MAS CADA UM TEM O SEU TRABALHO PARA SER ENTREGUE
+E NADA DE DIZER "FIZEMOS JUNTOS POR ISSO TA IGUAL"
+
+
+
+1-Educação - Problema: Tendo em vista o grande número de desempregados, e percebendo que no ramo da tecnologia, existem mais vagas que profissionais capacitados. Como podemos democratizar a educação tecnológica no nosso país 
+4-Tecnológia - Problema: Com a chegada de milhares de profissionais na área de tecnologia, como podemos pensar em meios para bem os recebê-los, quais os mecanismos podemos usar para que tenham mais oportunidades para os "Dev. Juniors"
+
+codepen.io
+swiperjs.com
+NERDIN.COM.BR
+iconfinder.com/icons
+
+
+
+
+
+
+
+O setor de tecnologia capacita menos profissionais do que o mercado brasileiro demanda. Parece um contrassenso, mas os dados apontam que, em meio a altas taxas de desemprego no país, inúmeras vagas não são preenchidas. De acordo a pesquisa da Associação Brasileira das Empresas de Tecnologia da Informação (Brasscom), o setor deve contratar 420 mil profissionais até 2024; no entanto, o Brasil capacita somente 46 mil pessoas por ano. Não é preciso ser um gênio da matemática para perceber que essa conta não fecha e que o risco de um apagão de mão de obra é muito real.
+
+Sobre o crescimento do mercado
+O mercado de TI cresceu 65% em 2020, além disso, é importante levar em conta que mesmo com o crescimento há uma grande procura por profissionais. Abaixo há um gráfico retirado de um estudo referente a demanda do mercado de acordo com a Brasscom, IDC.

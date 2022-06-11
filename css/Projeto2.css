@@ -1,0 +1,183 @@
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-image: url(/img/fundo4.jpg);  
+}
+header img{
+    width: 350px;    
+}
+
+.menu {
+    display: flex;
+    width: 350px;
+    flex-wrap: wrap;      
+}
+
+.titulo1{
+    height: 30px;
+    width: 150px;   
+    padding: 25px;
+    border: 3px  solid aqua;
+    font-size: 22px ;
+    font-weight: bold;
+    color: aliceblue;
+    text-align: center;
+    border-radius: 6px;
+
+}
+
+.titulo{
+    display: flex;
+    justify-content: center;
+}
+
+
+.menu a{
+    width: 85px;
+    padding: 10px 20px;
+    margin: 10px 20px;
+    text-align: center;    
+    border: 3px solid aqua;
+    text-decoration: none;
+    color: aqua ;
+    font-size: 20px;
+    border-radius: 8px;   
+    background-color: rgba(243, 243, 243, 0.247);
+}
+
+
+body {
+    background-color: black;
+}
+p .titulo{
+    text-align: center;
+}
+main {
+    margin-top: 30px;   
+}
+.sobre{
+    background-image: url(/img/xaxa.jpg);
+    /*background-repeat: no-repeat;*/
+    background-position: center;
+}  
+.sobre1 {
+    display: flex;
+    margin: 25px 45px;
+    align-items: center;
+    justify-content: space-around;
+
+}
+
+.noticias {
+   background-image: url(/img/black-background-shaft-light-all-areas-38904606.jpg);
+   
+}
+.sobre2 {
+    display: flex;
+    margin: 25px 45px;
+    align-items: center;
+    justify-content: space-around;
+}
+.sobre1 img{
+    margin: 5px 5px 5px 5px;
+}
+
+.sobre3{
+    display: flex;
+    margin: 25px 45px;
+    align-items: center;
+    justify-content: space-around;
+
+}
+.div1 img{
+    margin: 5px 5px 5px 5px;
+    width: 100px;
+}
+
+.div1-1{
+    padding: 25px;
+    color: aliceblue;
+    font-size: 25px;
+    border:3px solid aqua;
+    border-radius: 5px;
+    width: 1000px;
+    background-color: rgba(0, 255, 255, 0.075);
+
+
+}
+.div3 img{
+    margin: 5px 50px 5px 5px;
+    width: 450px;
+}
+.div2 img{
+    margin: 5px 50px 5px 5px;
+    width: 450px;
+
+}
+.div1-2{
+    padding: 25px;
+    color: aliceblue;
+    font-size: 25px;
+    border:3px solid aqua;
+    border-radius: 5px;
+    margin: 0 50px 50px 50px;
+    background-color: rgba(0, 255, 255, 0.075);
+}
+
+.div3-3{
+    color: aliceblue;
+    font-size: 25px;
+    border:3px solid aqua;
+    border-radius: 5px;
+    width: 1000px;
+}
+
+.div4 img{
+    margin: 5px 5px 5px 5px;
+    width: 350px;
+}
+
+footer .container { 
+    margin: 100px 100px;
+    display: flex;
+    justify-content: space-around;
+}
+footer .midias a {
+    text-decoration: none;
+    transition: 0.3s;
+    display: inline-block;
+    }
+
+footer .midias{
+    width: 320px;
+    display: flex;
+    justify-content: space-evenly;
+}
+footer .imgfot{
+   width: 100px;
+    
+}        
+main {
+    margin-top: 30px;   
+}
+
+
+footer .midias img{
+    
+    width: 50px;
+    
+    }
+footer .midias a:hover{
+    transform: translatey(-25px);
+}
+
+a:hover {
+    color: pink;
+    text-decoration: none;
+  }
+a{
+    color: azure
+}
+
+

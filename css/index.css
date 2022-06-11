@@ -1,0 +1,166 @@
+header{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-image: url(/img/fundo4.jpg);  
+}
+header img{
+    width: 350px;    
+}
+
+.menu {
+    display: flex;
+    width: 350px;
+    flex-wrap: wrap;      
+}
+
+.titulo1{
+    height: 30px;
+    width: 150px;   
+    padding: 25px;
+    border: 3px  solid aqua;
+    font-size: 22px ;
+    font-weight: bold;
+    color: aliceblue;
+    text-align: center;
+    border-radius: 6px;
+
+}
+
+.titulo{
+    display: flex;
+    justify-content: center;
+}
+
+
+.menu a{
+    width: 85px;
+    padding: 10px 20px;
+    margin: 10px 20px;
+    text-align: center;    
+    border: 3px solid aqua;
+    text-decoration: none;
+    color: aqua ;
+    font-size: 20px;
+    border-radius: 8px;   
+    background-color: rgba(243, 243, 243, 0.247);
+}
+
+p .titulo{
+    text-align: center;
+}
+
+footer .container { 
+    
+    display: flex;
+    justify-content: space-between;
+    background-color: black ;
+    align-items: center;
+}
+footer .midias a {
+    text-decoration: none;
+    transition: 0.3s;
+    display: inline-block;
+    }
+
+footer .midias{
+    width: 320px;
+    display: flex;
+    justify-content: space-evenly;
+}
+   
+
+footer .midias img{
+    width: 50px;  
+}
+
+footer .midias a:hover{
+    transform: translatey(-25px);
+}
+
+main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-image: url(/img/fundoindex.jpg);
+    background-repeat: no-repeat;
+    
+}
+.card{
+    width: 400px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+    height: 600px;
+    background-color: rgba(0, 255, 255, 0.103);
+    border-top: 5px solid aqua;
+    border-left: 5px solid aqua;
+    border-radius: 20px;
+    margin: 50px 50px 50px 50px;
+    box-shadow: 20px 20px 20px rgba(8, 56, 71, 0.726);
+    backdrop-filter: blur(2px);
+
+}
+
+
+div .container{
+    max-width: 150px;
+
+}
+
+.card .conten{
+    padding: 20px;
+    text-align: center;
+    transform: translateY(100px);
+    opacity: 0;
+    transition: 0.5s;
+}
+
+.card:hover .conten{
+    transform: translateY(0px);
+    opacity: 1;
+
+}
+
+.card .conten h2{
+    position: absolute;
+    top: -80px;
+    right: 30px;
+    font-size: 15px;
+    color: aqua;
+    pointer-events: none;
+    transition: 0.3s;
+    font-size: 50px;
+    margin-top: 15px;
+
+}
+.card .conten h3{
+    font-size: 25px;
+    color: rgb(251, 252, 250);
+    z-index: 1;
+    margin: 5px 0 25px 0;
+
+
+}
+.card .conten p{
+    margin-top: 25px;
+    font-size: 1.5em;
+    color: aqua;
+    font-weight: 300;
+
+}
+.card .conten a {
+    position: relative;
+    display: inline-block;
+    padding:  8px 20px;
+    background-color: rgb(3, 6, 7);
+    border-radius: 20px;
+    border: 3px solid rgb(43, 95, 95);
+    text-decoration: none;
+    font-weight: 500;
+    box-shadow: 0 5px  15px rgba(0, 0, 0, 0.5);
+    margin: 80px 25px 25px 10px;
+    color: aqua;
+}
